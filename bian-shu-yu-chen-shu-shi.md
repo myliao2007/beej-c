@@ -6,7 +6,7 @@
 —Pirate Captain Thomas Bartholomew Red to the Padre, Pirates
 ```
 
-C 語言一定有很多好的素材。
+在 C 語言裡肯定會有彩券。
 
 是啊。
 
