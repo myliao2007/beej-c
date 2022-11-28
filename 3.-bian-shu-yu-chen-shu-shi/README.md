@@ -1,4 +1,4 @@
-# 變數與陳述式
+# 3. 變數與陳述式
 
 ```
 「要創造世界需要各種各樣的東西，不是嗎，神父？」 
@@ -6,7 +6,7 @@
 —Pirate Captain Thomas Bartholomew Red to the Padre, Pirates
 ```
 
-在 C 語言裡肯定會有彩券。
+C 語言一定有很多好的素材。
 
 是啊。
 
