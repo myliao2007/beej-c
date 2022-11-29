@@ -9,3 +9,4 @@
 * [3. 變數與陳述式](3.-bian-shu-yu-chen-shu-shi/README.md)
   * [3.1. 變數](3.-bian-shu-yu-chen-shu-shi/3.1.-bian-shu.md)
     * [3.1.1. 變數名稱](3.-bian-shu-yu-chen-shu-shi/3.1.-bian-shu/3.1.1.variable-name.md)
+    * [3.1.2 變數型別](3.-bian-shu-yu-chen-shu-shi/3.1.-bian-shu/3.1.2-bian-shu-xing-bie.md)
